@@ -960,7 +960,10 @@ $crumb-slash: "/";
 // $include-html-panel-classes: $include-html-classes;
 
 // We use these to control the background and border styles
-$panel-bg: $grey-1;
+$panel-bg: linear-gradient(to bottom, purple, white);
+// $panel-border-style: solid;
+// $panel-border-size: 1px;
+
 // $panel-border-style: solid;
 // $panel-border-size: 1px;
 
